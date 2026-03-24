@@ -6,8 +6,8 @@ Hello! This content is designed to give you a basic, yet complete overview of th
 	02 - Orbital Elements Representation
 	03 - Generalized Perturbations Analysis
 	04 - Effects of Non-Spherical Earth
-  05 - Orbital Maneuvers
-  06 - Transfer Orbits
+	05 - Orbital Maneuvers
+	06 - Transfer Orbits
 	07 - Interplanetary Transfers
 	08 - Interplanetary Mission Design
 	09 - Lunar Orbits
